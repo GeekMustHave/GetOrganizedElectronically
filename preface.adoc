@@ -1,0 +1,16 @@
+[preface]
+== Example Preface
+
+.Who is this guy?
+Hello my name is John Schuster and I have struggled and mastered the elctronic method of staying organized without being overwhelmed with the effort.  I'm a technologist and a trainer of the new technologies and trends in the project management and software dedvelopment arenas.
+
+.Why is this book important
+Well I wrote it and that's why.
+
+
+.How is the best way for me to use this book?
+To hold up a plant so it will be closer to the sun.
+
+
+
+
